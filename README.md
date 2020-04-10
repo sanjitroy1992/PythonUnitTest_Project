@@ -8,8 +8,8 @@ This would be a multi part tutorial, in which we will write automation script fo
 A virtual environment is a tool that helps to keep dependencies required by different projects separate by creating isolated python virtual environments for them.
 
 4. Python Module used:
-selenium -->pip install selenium
-HtmlTestRunner -->pip install html-testRunner
+ - selenium -->pip install selenium
+ - HtmlTestRunner -->pip install html-testRunner
 
 5. WebDrivers are maintained under Drivers folder.
 
