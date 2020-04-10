@@ -20,7 +20,5 @@ Amazon_AllTests.py
 
 8. Command to execute the tests:
 Since our python modeles are under venv folder so we need to first set the pythonpath with the below command.
-  -set PYTHONPATH=./venv/Lib/site-packages;
-
-For running the test use the below command.
-  -- python Amazon_AllTests.py -v
+ - set PYTHONPATH=./venv/Lib/site-packages;
+ - python Amazon_AllTests.py -v
