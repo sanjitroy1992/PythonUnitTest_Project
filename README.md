@@ -19,6 +19,9 @@ HtmlTestRunner -->pip install html-testRunner
 Amazon_AllTests.py
 
 8. Command to execute the tests:
-Since our python modeles are under venv folder so we need to first set the pythonpath with the below command.
+Since our python modeles are under venv folder so we need to first set the PythonPath followed by running the test with the below command.
  - set PYTHONPATH=./venv/Lib/site-packages;
  - python Amazon_AllTests.py -v
+ 
+ Links:
+ https://medium.com/@asheeshmisra29/web-automation-selenium-webdriver-and-python-getting-started-part-1-157be93049d7
