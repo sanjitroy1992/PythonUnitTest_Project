@@ -1,4 +1,4 @@
-Amazon shopping unittst
+Amazon shopping unittst project
 
 1. Introduction:
 Python has gained a lot of traction in last decade and is getting very popular among testers also for automation testing, web scraping, security testing and automating other mundane tasks. In this multi part tutorial we will try to write automation scripts in Python using Selenium Webdriver.
